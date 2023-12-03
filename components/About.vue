@@ -11,7 +11,7 @@
         </div>
 
         <!-- content text section -->
-        <div class="flex md:justify-start justify-center items-center px-2 md:px-0 lg:px-0 md:mt-10 -mt-5">
+        <div class="flex md:justify-start justify-center items-center px-2 md:px-0 lg:px-0 md:pt-10 -mt-5">
           <div class="flex flex-col md:items-start items-center">
             <h2 class="text-2xl font-normal text-[#29130D]/80">About Us</h2>
             <h1 class="md:text-6xl text-4xl  font-semibold text-[#29130D] mt-2 text-center md:text-left">

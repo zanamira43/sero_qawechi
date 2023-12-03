@@ -1,6 +1,6 @@
 <template>
   <ClientOnly>
-    <div id="location" class="mt-[70px] md:mt-0 w-full bg-white">
+    <div id="location" class="pt-[100px] md:pt-10 w-full bg-white">
       <div class="container mx-auto bg-white">
         <div class="flex flex-col justify-center items-center space-y-3">
           <h1 class="font-semibold text-3xl md:text-6xl text-[#29130D]">Location</h1>

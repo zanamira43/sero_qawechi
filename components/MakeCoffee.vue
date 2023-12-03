@@ -1,5 +1,5 @@
 <template>
-  <div id="coffee" class="w-full h-full my-10 md:mt-[200px] bg-white">
+  <div id="coffee" class="w-full h-full py-10 md:pt-[200px] bg-white">
     <div class="container mx-auto bg-white">
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-20">
         <!-- short video section -->

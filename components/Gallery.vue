@@ -1,5 +1,5 @@
 <template>
-  <div id="gallery" class="w-full h-full py-10 md:mt-[100px] bg-white">
+  <div id="gallery" class="w-full h-full py-10 md:pt-[120px] bg-white">
     <div class="container mx-auto">
       <!-- gallery Title -->
       <div class="flex flex-col justify-center items-center space-y-3 bg-white">
